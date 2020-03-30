@@ -1,0 +1,6 @@
+1-	وقتی در gitHub  نام repo را عوض کریدم
+برای اینکه دوباره در لوکال بهش لینک بدیم در قسمت clone/download آدرس ssh  یا https را برمی داریم.   و درسمت لوکال با دستور زیر لینک را عوض می کنیم 
+Git remote set-url origin git@github.com/....(copied address from gitHub)
+
+Then with the command   git remote –v you can check the changages
+
